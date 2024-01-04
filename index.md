@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Digital Marketing A/B Testing with ChatGPT4 Data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Digital Marketing A/B Testing with ChatGPT4 Data](https://github.com/busebahadir/A-B-Testing)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
